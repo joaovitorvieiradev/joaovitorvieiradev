@@ -35,5 +35,4 @@ Aqui estão algumas das tecnologias que eu uso no meu dia a dia e nos meus estud
 
 ## 📫 Como me Encontrar
 
-* [**LinkedIn:**]([https://www.linkedin.com/in/jo%C3%A3o-vitor-5b8838358]) (Vamos nos conectar!)
-* [**LinkedIn:**]([https://www.linkedin.com/in/jo%C3%A3o-vitor-5b8838358]) (Vamos nos conectar!)
+* [**LinkedIn:**](https://www.linkedin.com/in/jo%C3%A3o-vitor-5b8838358) (Vamos nos conectar!)
