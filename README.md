@@ -38,9 +38,9 @@ Aqui estão algumas das tecnologias que eu uso no meu dia a dia e nos meus estud
 Aqui estão algumas estatísticas da minha atividade aqui no GitHub (elas atualizam sozinhas!):
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USERNAME-AQUI]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de João Vitor"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[joaovitorvieiradev]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de João Vitor"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USERNAME-AQUI]&layout=compact&theme=dark" alt="Linguagens Mais Usadas por João Vitor"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[joaovitorvieiradev]&layout=compact&theme=dark" alt="Linguagens Mais Usadas por João Vitor"/>
 </p>
 
 ---
