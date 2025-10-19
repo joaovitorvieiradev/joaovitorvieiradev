@@ -33,6 +33,20 @@ Aqui estão algumas das tecnologias que eu uso no meu dia a dia e nos meus estud
 
 ---
 
+## 📊 Minhas Estatísticas no GitHub
+
+<details>
+  <summary>Clique para ver minhas estatísticas 📈</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=joaovitorvieiradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorvieiradev&layout=compact&theme=dark" alt="Linguagens"/>
+  </p>
+</details>
+
+---
+
 ## 📫 Como me Encontrar
 
 * <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-5b8838358" target="_blank" rel="noopener noreferrer"><strong>LinkedIn:</strong></a> (Vamos nos conectar!)
