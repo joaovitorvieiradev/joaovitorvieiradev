@@ -1,7 +1,7 @@
 # Olá, eu sou o João Vitor! 👋
 
 <p align="center">
-  <em>Analista de Dados em formação e entusiasta de Business Intelligence.</em>
+  <em>Analista de Dados | Python | ETL | Power BI. | Dados.</em>
 </p>
 
 ---
